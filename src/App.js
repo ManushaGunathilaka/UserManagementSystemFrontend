@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to my site</h1>
+        <h1>User Management System</h1>
         <button className="users-button" onClick={() => navigate("/users")}>
           Users
         </button>
